@@ -1,5 +1,9 @@
 # Graph To Auido  
 
+Ths repo includes SE 4507	Computer Vision Lesson's project from Muğla Sıtkı Koçmnan Üniversitesi.
+
+
+
 ![image](https://github.com/user-attachments/assets/2c0b758e-61ee-4ee6-b380-b8955ee9f8a0)
 
 
