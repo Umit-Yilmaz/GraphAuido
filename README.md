@@ -1,6 +1,6 @@
 # Graph To Auido  
 
-Ths repo includes SE 4507	Computer Vision Lesson's project from Muğla Sıtkı Koçmnan Üniversitesi.
+This repo includes SE 4507	Computer Vision Lesson's project from Muğla Sıtkı Koçmnan University
 
 
 
@@ -17,3 +17,6 @@ Then visualize the values returned from FFT library with FFMEG.
 
 
 ![image](https://github.com/user-attachments/assets/a36756f5-5efe-477e-a624-605404118f68)
+
+# Acces
+To acces the code simply make a request to realumit219@gmail.com with your purpose
